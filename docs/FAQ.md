@@ -14,7 +14,7 @@ The developer preview is planned at **$0**. Usage is still metered and program l
 
 ## How large is the Zero Pool?
 
-The launch model is **1 trillion (1T) shared tokens per day**, with the pool replenished every day at midnight. The exact reset boundary will be published in the launch rules before public opening.
+The launch model is **1 trillion (1T) shared tokens per day**, with the pool replenished every day at **00:00 UTC**.
 
 ## Is it unlimited?
 
