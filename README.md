@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/Project%20Zero_%20Digital%20Particle%20Network.png" alt="Project Zero — More Developers. More Nodes. More Intelligence." width="100%" />
+</p>
+
 <h1 align="center">Project Zero</h1>
 
 <p align="center">
