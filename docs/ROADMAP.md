@@ -14,6 +14,13 @@ This is a public launch roadmap, not a promise of dates.
 - developer identity and auth closure
 - usage, cost, reliability and abuse telemetry
 
+## Zero Pool launch contract
+
+- Starting baseline: **100T shared tokens/day**
+- Reset: **00:00 UTC**
+- Growth: verified opted-in Tessen Node capacity can increase the next day's published pool
+- Measurement: displayed capacity comes from production authority, never a marketing multiplier
+
 ## Opening gate
 
 The Zero Pool opens when a clean developer can:
