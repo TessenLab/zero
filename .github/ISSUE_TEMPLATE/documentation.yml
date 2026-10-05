@@ -1,0 +1,25 @@
+name: Documentation issue
+description: Report something unclear, incorrect or broken in Project Zero public documentation.
+title: "[Docs] "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for helping improve Project Zero documentation.
+  - type: textarea
+    id: page
+    attributes:
+      label: Page or section
+      description: Which document, heading or public page is affected?
+    validations:
+      required: true
+  - type: textarea
+    id: issue
+    attributes:
+      label: What is unclear or incorrect?
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested improvement
