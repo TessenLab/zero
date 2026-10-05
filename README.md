@@ -38,18 +38,20 @@ MORE INTELLIGENCE ←  MORE NODES
 
 Project Zero is the first public developer program built around that loop.
 
-**$0 to start during the preview.** The Zero Pool is planned to open with a shared **1 trillion (1T) token daily pool**, resetting every day at **00:00 UTC**. Access remains metered and protected by fair-use, capacity, reliability and abuse controls. Free does not mean unlimited.
+**$0 to start during the preview.** The Zero Pool is planned to open with a shared **100 trillion (100T) token daily pool**, resetting every day at **00:00 UTC**. Access remains metered and protected by fair-use, capacity, reliability and abuse controls. Free does not mean unlimited.
 
-### 1T tokens. Every day.
+### 100T tokens. Every day.
 
-The starting Zero Pool is designed around **1T tokens of shared developer intelligence per day**. At **00:00 UTC every day**, the pool is replenished for the next 24-hour cycle.
+The starting Zero Pool is designed around **100T tokens of shared developer intelligence per day**. At **00:00 UTC every day**, the pool is replenished for the next 24-hour cycle.
 
-Developers can also help grow the network by running **Tessen Node**. Node turns compatible, explicitly opted-in compute into potential capacity for the network; where Node participation benefits or credits apply, they will be based on real contributed work and server-authoritative accounting.
+**100T is the starting baseline, not the ceiling.** Developers can join the mission by installing **Tessen Node** and explicitly opting compatible compute into the network. Verified contributed capacity can increase the **next day's displayed Zero Pool** above the 100T baseline. The pool resets at **00:00 UTC**, and the next cycle's published amount reflects capacity Tessen has actually verified — never an invented multiplier.
+
+Where Node participation benefits or credits apply, they will be based on real contributed work and server-authoritative accounting.
 
 The loop is simple:
 
 ```text
-1T DAILY ZERO POOL
+100T DAILY ZERO POOL
         ↓
 DEVELOPERS BUILD
         ↓
@@ -57,7 +59,7 @@ MORE NODES JOIN
         ↓
 MORE CAPACITY
         ↓
-A STRONGER ZERO POOL
+NEXT DAY'S ZERO POOL CAN GROW
 ```
 
 Public Node benefit/credit mechanics will be published with the certified launch rules.
