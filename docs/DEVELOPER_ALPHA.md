@@ -2,6 +2,8 @@
 
 The Developer Alpha is organized around one outcome:
 
+**Tessen is launching Project Zero — ZERO with a planned 100T shared-token daily baseline, reset at 00:00 UTC.** Developers can optionally run Tessen Node; verified Node capacity can grow the next day's published pool above that baseline.
+
 > A developer who has never spoken to Tessen can discover Project Zero, authenticate, complete a real coding request and understand how to participate in the network.
 
 It does not require every future Tessen product capability to be finished.
