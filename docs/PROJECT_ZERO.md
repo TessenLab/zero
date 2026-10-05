@@ -7,7 +7,7 @@ Tessen is launching **Project Zero — ZERO**, its free developer intelligence p
 During the preview:
 
 - access is planned at **$0** for participating developers;
-- the Zero Pool is planned to start with **1 trillion (1T) shared tokens per day**;
+- the Zero Pool is planned to start with **100 trillion (100T) shared tokens per day**;
 - the shared pool resets every day at **00:00 UTC**;
 - access is governed by a Project Zero entitlement;
 - usage is metered even when the developer price is $0;
@@ -16,9 +16,9 @@ During the preview:
 
 Project Zero is not a promise of unlimited compute.
 
-## The 1T daily pool
+## The 100T daily pool
 
-The launch model starts with a shared allowance of **1T tokens per day** across Project Zero. The pool is replenished every day at **00:00 UTC** for the next 24-hour cycle.
+The launch model starts with a shared allowance of **100T tokens per day** across Project Zero. The pool is replenished every day at **00:00 UTC** for the next 24-hour cycle.
 
 This makes the free preview concrete while keeping it bounded and measurable. Tessen can still apply per-developer allocations, concurrency controls, routing policy and abuse protections so a shared pool remains useful to the developer community.
 
@@ -27,7 +27,11 @@ This makes the free preview concrete while keeping it bounded and measurable. Te
 
 Developers can participate on both sides of Project Zero: consume intelligence for coding work and, optionally, run **Tessen Node** to contribute compatible available compute.
 
-As real Node capacity joins the network, it can help expand the capacity available to the Zero ecosystem. Any Node credits or participation benefits will be tied to real contributed work and server-authoritative accounting; this repository will not promise guaranteed earnings or fabricated capacity.
+The launch baseline is **100T shared tokens per day**. It is a floor for the planned launch pool, not a promise that every developer individually receives 100T.
+
+As developers install Tessen Node and explicitly opt compatible compute into the network, Tessen can verify contributed capacity. Verified additional capacity can increase the **next day's published Zero Pool** above the 100T baseline at the **00:00 UTC** reset. The displayed pool must come from real capacity/accounting data, not a fixed marketing multiplier.
+
+Any Node credits or participation benefits will be tied to real contributed work and server-authoritative accounting; this repository will not promise guaranteed earnings or fabricated capacity.
 
 ## Canonical model identity
 
