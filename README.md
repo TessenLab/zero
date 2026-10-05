@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/project-zero-banner.png" alt="Project Zero — More Developers. More Nodes. More Intelligence." width="100%" />
-</p>
-
 <h1 align="center">Project Zero</h1>
 
 <p align="center">
