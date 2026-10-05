@@ -24,7 +24,7 @@
 
 ## What is Project Zero?
 
-Project Zero is Tessen's **free developer intelligence preview**.
+Tessen is launching **Project Zero — ZERO**, a free developer intelligence preview.
 
 We're building a simple path for developers to bring Tessen into real coding work — starting with **OpenCode** and the **Tessen CLI** — while a growing **Node Pool** expands the network behind it.
 
@@ -38,11 +38,11 @@ MORE INTELLIGENCE ←  MORE NODES
 
 Project Zero is the first public developer program built around that loop.
 
-**$0 to start during the preview.** The Zero Pool is planned to open with a shared **1 trillion (1T) token daily pool**, resetting every day at midnight. Access remains metered and protected by fair-use, capacity, reliability and abuse controls. Free does not mean unlimited.
+**$0 to start during the preview.** The Zero Pool is planned to open with a shared **1 trillion (1T) token daily pool**, resetting every day at **00:00 UTC**. Access remains metered and protected by fair-use, capacity, reliability and abuse controls. Free does not mean unlimited.
 
 ### 1T tokens. Every day.
 
-The starting Zero Pool is designed around **1T tokens of shared developer intelligence per day**. At the daily reset, the pool is replenished for the next day.
+The starting Zero Pool is designed around **1T tokens of shared developer intelligence per day**. At **00:00 UTC every day**, the pool is replenished for the next 24-hour cycle.
 
 Developers can also help grow the network by running **Tessen Node**. Node turns compatible, explicitly opted-in compute into potential capacity for the network; where Node participation benefits or credits apply, they will be based on real contributed work and server-authoritative accounting.
 
@@ -60,7 +60,7 @@ MORE CAPACITY
 A STRONGER ZERO POOL
 ```
 
-The exact reset boundary and public Node benefit/credit mechanics will be published with the certified launch rules.
+Public Node benefit/credit mechanics will be published with the certified launch rules.
 
 > Project Zero is in pre-launch certification. This repository intentionally does not publish install commands, credentials, node counts, developer counts or capacity figures until those paths and numbers are real.
 
