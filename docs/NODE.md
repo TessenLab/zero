@@ -2,7 +2,7 @@
 
 Tessen Node is the desktop participation layer for Tessen's distributed compute direction.
 
-Project Zero creates useful developer demand. The Zero Pool is planned to begin with **1 trillion (1T) shared tokens per day**, replenished at the daily midnight reset. Node is intended to let participating machines contribute available compute under explicit user controls and help grow the network beyond its starting pool.
+Project Zero creates useful developer demand. The Zero Pool is planned to begin with **1 trillion (1T) shared tokens per day**, replenished every day at **00:00 UTC**. Node is intended to let participating machines contribute available compute under explicit user controls and help grow the network beyond its starting pool.
 
 ## The network loop
 
