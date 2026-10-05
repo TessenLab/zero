@@ -38,7 +38,29 @@ MORE INTELLIGENCE ←  MORE NODES
 
 Project Zero is the first public developer program built around that loop.
 
-**$0 to start during the preview.** Access will still be metered and protected by fair-use, capacity, reliability and abuse controls. Free does not mean unlimited.
+**$0 to start during the preview.** The Zero Pool is planned to open with a shared **1 trillion (1T) token daily pool**, resetting every day at midnight. Access remains metered and protected by fair-use, capacity, reliability and abuse controls. Free does not mean unlimited.
+
+### 1T tokens. Every day.
+
+The starting Zero Pool is designed around **1T tokens of shared developer intelligence per day**. At the daily reset, the pool is replenished for the next day.
+
+Developers can also help grow the network by running **Tessen Node**. Node turns compatible, explicitly opted-in compute into potential capacity for the network; where Node participation benefits or credits apply, they will be based on real contributed work and server-authoritative accounting.
+
+The loop is simple:
+
+```text
+1T DAILY ZERO POOL
+        ↓
+DEVELOPERS BUILD
+        ↓
+MORE NODES JOIN
+        ↓
+MORE CAPACITY
+        ↓
+A STRONGER ZERO POOL
+```
+
+The exact reset boundary and public Node benefit/credit mechanics will be published with the certified launch rules.
 
 > Project Zero is in pre-launch certification. This repository intentionally does not publish install commands, credentials, node counts, developer counts or capacity figures until those paths and numbers are real.
 
