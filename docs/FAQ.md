@@ -12,9 +12,17 @@ Not publicly yet. **The Zero Pool is coming.** The public path is being certifie
 
 The developer preview is planned at **$0**. Usage is still metered and program limits can apply.
 
+## How large is the Zero Pool?
+
+The launch model is **1 trillion (1T) shared tokens per day**, with the pool replenished every day at midnight. The exact reset boundary will be published in the launch rules before public opening.
+
 ## Is it unlimited?
 
-No. Tessen can apply allocations, rate/concurrency controls, eligible routing and abuse protections.
+No. The 1T allowance is a shared daily pool. Tessen can apply per-developer allocations, rate/concurrency controls, eligible routing and abuse protections so the pool remains useful and sustainable.
+
+## Can developers help increase the pool?
+
+That is part of the Node model. Developers can optionally run **Tessen Node** to contribute compatible available compute. As real capacity joins, it can help strengthen and expand the Zero ecosystem. Any credits or participation benefits will be based on real contributed work and authoritative accounting.
 
 ## What model do developer tools use?
 
