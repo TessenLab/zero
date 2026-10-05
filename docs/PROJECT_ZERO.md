@@ -7,12 +7,28 @@ Project Zero is Tessen's free developer intelligence preview for real coding wor
 During the preview:
 
 - access is planned at **$0** for participating developers;
+- the Zero Pool is planned to start with **1 trillion (1T) shared tokens per day**;
+- the shared pool resets every day at midnight;
 - access is governed by a Project Zero entitlement;
 - usage is metered even when the developer price is $0;
 - allocations, concurrency limits and eligible routing may change to keep the pool reliable and sustainable;
 - abuse controls and operational kill switches remain part of the service boundary.
 
 Project Zero is not a promise of unlimited compute.
+
+## The 1T daily pool
+
+The launch model starts with a shared allowance of **1T tokens per day** across Project Zero. The pool is replenished at the daily midnight reset.
+
+This makes the free preview concrete while keeping it bounded and measurable. Tessen can still apply per-developer allocations, concurrency controls, routing policy and abuse protections so a shared pool remains useful to the developer community.
+
+The exact reset boundary will be stated in the public launch rules before the pool opens.
+
+## Growing the pool with Node
+
+Developers can participate on both sides of Project Zero: consume intelligence for coding work and, optionally, run **Tessen Node** to contribute compatible available compute.
+
+As real Node capacity joins the network, it can help expand the capacity available to the Zero ecosystem. Any Node credits or participation benefits will be tied to real contributed work and server-authoritative accounting; this repository will not promise guaranteed earnings or fabricated capacity.
 
 ## Canonical model identity
 
