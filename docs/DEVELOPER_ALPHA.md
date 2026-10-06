@@ -1,51 +1,117 @@
 # Tessen Developer Alpha
 
-The Developer Alpha is organized around one outcome:
+Project Zero Alpha is an experiment with one deliberately simple proposition:
 
-**Tessen is launching Project Zero — ZERO with a planned 100T shared-token daily baseline, reset at 00:00 UTC.** Developers can optionally run Tessen Node; verified Node capacity can grow the next day's published pool above that baseline.
+> **ZERO. Free coding intelligence. 100T shared tokens every day.**
 
-> A developer who has never spoken to Tessen can discover Project Zero, authenticate, complete a real coding request and understand how to participate in the network.
+The daily Zero Pool is planned to reset at **00:00 UTC**. OpenCode is the first distribution focus. The stable developer-facing model identity is `tessen/project-zero`.
 
-It does not require every future Tessen product capability to be finished.
+The Alpha is not a promise that every future Tessen developer capability is finished. It is the earliest point at which the core ZERO experience is real enough for developers to use on real coding work.
 
-## Public footprint
+## The experiment
 
-The intended Alpha footprint includes:
+We want to answer a few questions with real usage rather than launch-page speculation:
 
-- Tessen product and Company;
-- Tessen Platform;
-- Tessen Console;
-- Project Zero;
-- OpenCode;
-- Tessen CLI;
-- Tessen Node;
-- Tessen Status;
-- this public GitHub repository.
+- What happens when developers can use coding intelligence at a $0 developer price?
+- Can developers meaningfully use a shared 100T daily pool?
+- Which real coding workflows make ZERO useful enough to return to?
+- Can developer demand attract more voluntary Node participation?
+- Can verified additional compute capacity grow a future Zero Pool?
+
+Those answers must come from production telemetry.
+
+## Minimum opening path
+
+Before **THE ZERO POOL IS COMING** changes to **THE ZERO POOL IS OPEN**, a developer who has never spoken to Tessen should be able to:
+
+1. discover Project Zero;
+2. authenticate with Tessen;
+3. receive Project Zero access;
+4. enter a supported coding workflow;
+5. select `tessen/project-zero`;
+6. complete a real coding request;
+7. return later with the same identity and entitlement.
+
+The first public path is focused on **OpenCode**. Tessen CLI and Node expand the Alpha, but they should not make first coding activation harder.
 
 ## Activation funnel
 
 ```text
-Visitor
-  → developer sign-in
-  → Zero access
-  → first successful request
-  → returning developer
-  → optional Node install
-  → active participating Node
+DISCOVER ZERO
+      ↓
+TESSEN IDENTITY
+      ↓
+ZERO ACTIVATION
+      ↓
+FIRST SUCCESSFUL CODING REQUEST
+      ↓
+RETURNING DEVELOPER
+      ↓
+OPTIONAL NODE INSTALL
+      ↓
+VERIFIED PARTICIPATING NODE
 ```
 
-Registration alone is not the north-star metric.
+Registration alone is not activation.
 
-## Ambition
+For Project Zero, an **activated developer** is a developer who completes at least one successful real ZERO coding request.
+
+## The Zero Pool
+
+The planned Alpha baseline is **100T shared tokens/day**, reset at **00:00 UTC**.
+
+It is not 100T per developer and it is not unlimited usage. Tessen can apply fair-use allocations, concurrency controls, routing policy, abuse protections and emergency controls.
+
+If verified Node participation adds real available capacity, the next day's published pool can increase above the 100T baseline. Public capacity and usage numbers must come from server-authoritative data.
+
+## Public footprint
+
+Project Zero can spread across:
+
+- this public GitHub repository;
+- Tessen Platform and Console;
+- OpenCode;
+- Tessen CLI;
+- Tessen Node;
+- Tessen Status;
+- developer communities and technical content.
+
+But the Alpha should remain understandable without learning the entire Tessen platform first:
+
+> **ZERO → 100T/day → free during Alpha → use it for real coding.**
+
+## Growth ambition
 
 The long-term Project Zero acquisition target is **100,000 activated developers**.
 
-That is an ambition, not a current traction claim.
+That is an ambition, not current traction.
 
-The program should be able to manage growth with allocations, concurrency controls, routing, rate limits, abuse controls and emergency disable mechanisms.
+Growth should be measured through real activation and retention:
 
-## Opening standard
+```text
+visitors
+  → developer identities
+  → Zero activations
+  → first successful requests
+  → returning developers
+  → Node downloads
+  → Node installs
+  → active participating Nodes
+  → verified contributed capacity
+```
 
-Before the message changes from **THE ZERO POOL IS COMING** to **THE ZERO POOL IS OPEN**, a clean new-user journey should pass end-to-end without founder intervention.
+## Truth standard
 
-The launch should not depend on simulated requests, fake usage, fake Node capacity or invented developer counts.
+Alpha means early. It does not mean fictional.
+
+We will not manufacture:
+
+- developer counts;
+- token consumption;
+- requests served;
+- Node counts;
+- contributed capacity;
+- uptime;
+- rewards or earnings.
+
+The point of Project Zero Alpha is to create a real experiment developers can participate in — and then let the real results tell the story.
