@@ -62,7 +62,7 @@ MORE CAPACITY
 NEXT DAY'S ZERO POOL CAN GROW
 ```
 
-Public Node benefit/credit mechanics will be published with the certified launch rules.
+At each **00:00 UTC** reset, ZERO will publish the next daily pool from real available capacity. The launch floor is **100T tokens/day**; if verified Node capacity grows, the next day's displayed pool can grow with it. Public Node benefit/credit mechanics will be published with the certified launch rules.
 
 > Project Zero is in pre-launch certification. This repository intentionally does not publish install commands, credentials, node counts, developer counts or capacity figures until those paths and numbers are real.
 
