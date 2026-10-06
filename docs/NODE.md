@@ -4,6 +4,80 @@ Tessen Node is the participation layer for Tessen's distributed compute directio
 
 Project Zero creates useful developer demand. The Zero Pool is planned to begin with **100 trillion (100T) shared tokens per day**, replenished every day at **00:00 UTC**. Node is intended to let participating machines contribute available compute under explicit user controls and help grow the network beyond its starting pool. At each **00:00 UTC** reset, verified available capacity can be reflected in the next day's displayed ZERO Pool, so real Node growth can translate into a larger pool.
 
+## Minimum requirements
+
+The following are **initial target requirements for the public Node program**, not a certification that every configuration at these limits has already been tested.
+
+### Windows desktop Node
+
+- Windows 10/11 64-bit
+- Modern x64 CPU
+- 2+ CPU cores recommended
+- 4 GB RAM recommended
+- At least 5 GB free disk space
+- Internet connection with outbound HTTPS
+- Tessen account and Node authorization
+
+The native Windows Node includes its own Node.js runtime; users do not need to install Node.js or npm separately.
+
+### Linux server / cloud Node
+
+The headless server path is designed for infrastructure where no graphical desktop is available.
+
+**Initial target:**
+
+- Ubuntu 22.04 LTS or newer
+- x86_64 initially; additional architectures may follow certification
+- 2+ vCPU
+- 4 GB RAM
+- At least 5 GB free disk space
+- Stable outbound HTTPS connectivity
+- SSH/command-line access for installation and administration
+- No desktop environment required
+
+A Linux server can therefore run Tessen Node entirely from the command line.
+
+### Optional GPU
+
+A GPU is **not required for a basic Node**. Compatible CPU capacity can participate where the assigned workload supports it.
+
+GPU participation depends on the hardware, drivers, runtime and workload. Node is expected to discover supported local capabilities rather than claiming that every model or workload can run on every machine.
+
+### Hosting providers and cloud infrastructure
+
+Tessen Node is intended to support a future infrastructure-partner path for:
+
+- cloud hosting companies;
+- VPS providers;
+- dedicated-server providers;
+- GPU infrastructure providers;
+- data-center operators;
+- developers running their own servers.
+
+A provider can eventually install a **headless Node** on eligible infrastructure and explicitly opt that capacity into the Tessen network.
+
+The provider should not need to maintain a graphical desktop session.
+
+## Developer machines and OpenCode
+
+Node is not only for contributing capacity to the public network.
+
+A developer can also use Node as the local hardware/runtime layer while developing with Tessen Code and supported OpenCode workflows. The Node can report the machine's available capabilities so the authorized Tessen software can understand what the developer's computer can provide.
+
+The intended boundary is:
+
+```
+Developer
+   ↓
+Tessen Code / OpenCode
+   ↓
+Tessen Node
+   ↓
+Local hardware + supported runtimes
+```
+
+Node capability discovery is local to the machine. **Detection does not mean automatic execution or automatic participation.** Workload execution remains subject to Tessen authorization and the user's explicit participation controls.
+
 ## Run Node where compute already lives
 
 The public Node direction covers both personal computers and headless infrastructure:
