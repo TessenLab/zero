@@ -17,6 +17,10 @@
 </p>
 
 <p align="center">
+  ⭐ <strong>Star this repository to follow the opening of the ZERO Pool.</strong>
+</p>
+
+<p align="center">
   <a href="https://tessen.ai">Tessen</a> ·
   <a href="./docs/PROJECT_ZERO.md">Project Zero</a> ·
   <a href="./docs/OPENCODE.md">OpenCode</a> ·
