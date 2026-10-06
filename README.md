@@ -166,6 +166,42 @@ Tessen coordinates identity, entitlement, routing, accounting, reliability contr
 
 **[Read the public architecture →](./docs/ARCHITECTURE.md)**
 
+
+## Tessen Node: desktop, developer and server compute
+
+Tessen Node is designed to run wherever useful compute already exists — on a developer's computer, a Linux server, a VM, or eventually infrastructure operated by cloud and hosting providers.
+
+### Initial target requirements
+
+> These are **target requirements for the public Node program**, not a claim that every configuration at these limits has already been certified.
+
+| Environment | Initial target |
+| --- | --- |
+| Windows desktop | Windows 10/11 64-bit · 2+ CPU cores · 4 GB RAM · 5 GB free disk · outbound HTTPS |
+| Linux server / cloud | Ubuntu 22.04+ · x86_64 initially · 2+ vCPU · 4 GB RAM · 5 GB free disk · outbound HTTPS |
+| GPU | Optional; support depends on hardware, drivers and workload |
+| Headless server | No graphical desktop required; command-line/service operation |
+
+The native Windows Node includes its own Node.js runtime, so users do not need to install Node.js or npm separately.
+
+### Developers can use Node too
+
+Node is also intended to be the local hardware/runtime layer for Tessen Code and supported OpenCode workflows:
+
+```
+Developer → Tessen Code / OpenCode → Tessen Node → Local hardware
+```
+
+Node can discover supported local hardware and available capabilities. **Detection does not mean automatic execution or automatic network participation.** Workloads remain subject to Tessen authorization and explicit user controls.
+
+### Cloud and hosting providers
+
+The long-term Node network is designed to include hosting companies, VPS providers, dedicated-server operators, GPU providers and other infrastructure partners. Eligible providers can eventually run a headless Node on their infrastructure and explicitly contribute verified capacity to the network.
+
+A server Node does not need a graphical interface or desktop tray.
+
+**[Read the complete Node requirements and architecture →](./docs/NODE.md)**
+
 ## Documentation
 
 | Guide | What it covers |
