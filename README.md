@@ -2,89 +2,53 @@
   <img src="./assets/Project%20Zero_%20Digital%20Particle%20Network.png" alt="Project Zero — More Developers. More Nodes. More Intelligence." width="100%" />
 </p>
 
-<h1 align="center">Project Zero</h1>
+<h1 align="center">ZERO</h1>
 
 <p align="center">
-  <strong>Free coding intelligence for developers.</strong><br/>
-  A developer preview from Tessen, built around a growing pool of developers, tools and distributed compute.
+  <strong>100 TRILLION TOKENS. EVERY DAY.</strong><br/>
+  Free coding intelligence for developers.<br/>
+  <strong>PROJECT ZERO · DEVELOPER ALPHA</strong>
 </p>
 
 <p align="center"><strong>THE ZERO POOL IS COMING.</strong></p>
 
 <p align="center">
+  <code>tessen/project-zero</code>
+</p>
+
+<p align="center">
   <a href="https://tessen.ai">Tessen</a> ·
   <a href="./docs/PROJECT_ZERO.md">Project Zero</a> ·
-  <a href="./docs/NODE.md">Node Pool</a> ·
   <a href="./docs/OPENCODE.md">OpenCode</a> ·
-  <a href="./docs/CLI.md">CLI</a> ·
+  <a href="./docs/NODE.md">Node</a> ·
   <a href="./docs/FAQ.md">FAQ</a>
 </p>
 
 ---
 
-## What is Project Zero?
+## What happens when coding intelligence costs $0?
 
-Tessen is launching **Project Zero — ZERO**, a free developer intelligence preview.
+We want to find out.
 
-We're building a simple path for developers to bring Tessen into real coding work — starting with **OpenCode** and the **Tessen CLI** — while a growing **Node Pool** expands the network behind it.
+Project Zero is Tessen's developer experiment: open a shared pool of coding intelligence, make it free during the Alpha, put it where developers already work, and see what they build.
 
-The idea is straightforward:
-
-```text
-MORE DEVELOPERS  →  MORE USEFUL DEMAND
-                         ↓
-MORE INTELLIGENCE ←  MORE NODES
-```
-
-Project Zero is the first public developer program built around that loop.
-
-**$0 to start during the preview.** The Zero Pool is planned to open with a shared **100 trillion (100T) token daily pool**, resetting every day at **00:00 UTC**. Access remains metered and protected by fair-use, capacity, reliability and abuse controls. Free does not mean unlimited.
-
-### 100T tokens. Every day.
-
-The starting Zero Pool is designed around **100T tokens of shared developer intelligence per day**. At **00:00 UTC every day**, the pool is replenished for the next 24-hour cycle.
-
-**100T is the starting baseline, not the ceiling.** Developers can join the mission by installing **Tessen Node** and explicitly opting compatible compute into the network. Verified contributed capacity can increase the **next day's displayed Zero Pool** above the 100T baseline. The pool resets at **00:00 UTC**, and the next cycle's published amount reflects capacity Tessen has actually verified — never an invented multiplier.
-
-Where Node participation benefits or credits apply, they will be based on real contributed work and server-authoritative accounting.
-
-The loop is simple:
+The first Zero Pool is planned to start at:
 
 ```text
-100T DAILY ZERO POOL
-        ↓
-DEVELOPERS BUILD
-        ↓
-MORE NODES JOIN
-        ↓
-MORE CAPACITY
-        ↓
-NEXT DAY'S ZERO POOL CAN GROW
+100,000,000,000,000 TOKENS / DAY
+
+RESET 00:00 UTC
 ```
 
-At each **00:00 UTC** reset, ZERO will publish the next daily pool from real available capacity. The launch floor is **100T tokens/day**; if verified Node capacity grows, the next day's displayed pool can grow with it. Public Node benefit/credit mechanics will be published with the certified launch rules.
+That's **100 trillion shared tokens every day**.
 
-> Project Zero is in pre-launch certification. This repository intentionally does not publish install commands, credentials, node counts, developer counts or capacity figures until those paths and numbers are real.
+No waitlist theater. No fake usage counters. No invented capacity.
 
-## The developer path
+When the Alpha opens, the goal is simple: **pick ZERO, point it at a real repository, and build.**
 
-When the Zero Pool opens, the intended experience is:
+## ZERO in OpenCode
 
-```text
-Discover Project Zero
-        ↓
-Sign in to Tessen
-        ↓
-Enter the developer Console
-        ↓
-Connect OpenCode or Tessen CLI
-        ↓
-Use tessen/project-zero
-        ↓
-Complete a real coding task
-        ↓
-Optionally run Tessen Node
-```
+OpenCode is the first distribution focus for Project Zero.
 
 The canonical developer-facing model reference is:
 
@@ -92,147 +56,148 @@ The canonical developer-facing model reference is:
 tessen/project-zero
 ```
 
-Internal routing can evolve without changing that public identity.
+We want ZERO to fit into an agentic coding workflow developers already understand rather than requiring a new editor.
 
-## Built for where developers work
+The exact public install, authentication and selection instructions will appear here as soon as the clean external-developer path is certified. Until then, this repository will not publish placeholder commands that look real.
 
-| Surface | Role in Project Zero | Status |
-| --- | --- | --- |
-| **OpenCode** | Use Project Zero in an agentic coding workflow | Preparing launch |
-| **Tessen CLI** | Terminal-native Tessen | Preparing launch |
-| **Tessen Platform** | Public developer discovery and documentation | Preparing launch |
-| **Tessen Console** | Developer identity, credentials, usage and controls | Preparing launch |
-| **Tessen Node** | Contribute available compute under explicit controls | Preparing launch |
-| **Tessen Status** | Public operational transparency | Preparing launch |
-
-No placeholder command in this repository should be mistaken for a released product. When a surface is certified and public, its exact onboarding instructions will replace the status above.
+**[Follow the OpenCode launch path →](./docs/OPENCODE.md)**
 
 ## The Zero Pool
 
-Project Zero is designed around two sides of one network.
+The Alpha launches around one shared daily pool:
 
-### Developers create useful demand
+**100T tokens/day · $0 developer price during the preview · reset 00:00 UTC.**
 
-Developers should be able to use Tessen for actual coding work instead of watching a demo or reading a benchmark.
+100T is the planned launch baseline for the **shared Project Zero pool** — not 100T per developer and not a promise of unlimited compute.
 
-### Nodes grow available capacity
+Tessen can apply fair-use allocations, concurrency controls, eligible routing, abuse protections and operational limits so the pool remains useful.
 
-Tessen Node is being built as the participation layer for distributed compute. A Node should understand what a machine can safely contribute, keep participation explicit, and report only real server-authoritative state where accounting is involved.
+### Can developers use 100T in a day?
 
-### Tessen coordinates the network
+That's part of the experiment.
 
-Identity, entitlements, routing, accounting, reliability controls and operational safety remain coordinated by Tessen.
+When public telemetry is certified, Project Zero can publish real pool usage, remaining capacity and reset information. Until then, we will not simulate those numbers.
 
-Read **[Node and the Zero Pool](./docs/NODE.md)**.
+## More developers. More nodes. More intelligence.
 
-## What makes Zero different?
-
-Our launch standard is a clean new developer completing a **real coding request** without founder intervention.
-
-The preview is being prepared around:
-
-- one Tessen developer identity;
-- a real Project Zero entitlement;
-- real request routing through Tessen;
-- real usage and underlying cost accounting;
-- OpenCode and terminal-native access;
-- explicit rate, concurrency and abuse controls;
-- operational kill switches;
-- honest status and failure states;
-- optional Node participation;
-- no simulated traction or capacity.
-
-## 100,000 developers
-
-Our long-term acquisition ambition for Project Zero is:
-
-> **100,000 activated developers.**
-
-That is a **target, not a current-user claim**.
-
-An activated developer is more meaningful than a registration. We care about discovery → first successful request → useful repeat usage.
+Project Zero is designed as a network loop, not just a free model promotion.
 
 ```text
-Visitors
-  ↓
-Developer sign-ins
-  ↓
-Zero activations
-  ↓
-First successful requests
-  ↓
-Returning developers
-  ↓
-Node installs
-  ↓
-Active participating Nodes
+100T DAILY ZERO POOL
+        ↓
+DEVELOPERS BUILD
+        ↓
+MORE DEVELOPERS JOIN
+        ↓
+MORE TESSEN NODES JOIN
+        ↓
+MORE VERIFIED COMPUTE CAPACITY
+        ↓
+NEXT ZERO POOL CAN GROW
 ```
 
-If we publish network statistics, they will come from production telemetry.
+Developers can optionally run **Tessen Node** and explicitly opt compatible compute into the network.
 
-## Principles
+If Tessen verifies additional available capacity, the **next day's published Zero Pool** can increase above the 100T baseline at the 00:00 UTC reset. Any increase must come from real server-authoritative capacity/accounting data — never a marketing multiplier.
 
-**Real work over demos.** Zero should be useful in an actual repository.
+Node participation remains explicit. Any credits or benefits must be tied to real contributed work. Project Zero does not promise guaranteed earnings.
 
-**Truth over vanity metrics.** No invented developer counts, node counts, uptime or capacity.
+**[How Node fits into ZERO →](./docs/NODE.md)**
 
-**One identity.** Platform, Console and developer tools converge on Tessen identity.
+## Developer Alpha
 
-**Free is still accountable.** A $0 developer price does not remove usage, cost or abuse accounting.
+Project Zero does not need every future Tessen developer feature to be finished before the Alpha can open.
 
-**Explicit Node control.** Running a Node remains visible and controllable by the person operating the machine.
+It does need the core experiment to be real.
 
-**Stable public interface.** Developers use `tessen/project-zero`; eligible routing can evolve behind it.
+A completely new developer should be able to:
 
-**Operational transparency.** Availability and incidents belong on a real status surface.
+1. discover ZERO;
+2. authenticate with Tessen;
+3. receive Project Zero access;
+4. use ZERO from a supported coding workflow;
+5. select `tessen/project-zero`;
+6. complete a real coding request;
+7. return later with the same identity and access.
 
-## Architecture at a glance
+Node participation is optional and comes after the coding experience works.
 
-```mermaid
-flowchart LR
-    D[Developer] --> OC[OpenCode]
-    D --> CLI[Tessen CLI]
-    OC --> I[Tessen Identity + Zero Entitlement]
-    CLI --> I
-    I --> G[Tessen Gateway]
-    G --> R[Eligible Intelligence]
-    G --> A[Usage + Cost Accounting]
-    N[Tessen Node] --> P[Node Pool]
-    P --> G
-```
+**That is the opening gate.**
 
-This is a public conceptual model, not a disclosure of Tessen's private production topology. See **[Architecture](./docs/ARCHITECTURE.md)**.
+## Built for experimentation
+
+Project Zero Alpha is being prepared around:
+
+- **$0 access** during the preview;
+- a **100T shared daily baseline**;
+- a daily **00:00 UTC reset**;
+- **OpenCode-first** developer distribution;
+- the stable `tessen/project-zero` public identity;
+- real request, usage and underlying cost accounting;
+- fair-use, rate, concurrency and abuse controls;
+- operational kill switches;
+- truthful status and failure states;
+- optional Tessen Node participation.
+
+Free does not mean unmetered or unlimited.
+
+## The public experiment
+
+Once production telemetry is ready, we want the interesting questions to be visible:
+
+- How many developers actually activate ZERO?
+- How many complete a real coding task?
+- How much of the daily pool gets used?
+- How many developers come back?
+- How much verified capacity is contributed by Nodes?
+- Can the next Zero Pool grow?
+
+We will publish those numbers only when they are real.
+
+Our long-term ambition is **100,000 activated developers**. That is a target, not a current-user claim.
+
+An **activated developer** means more than a signup: a developer who completes a successful real ZERO coding request.
+
+## Built by Tessen
+
+Project Zero is a public developer program from **Tessen**.
+
+Tessen coordinates identity, entitlement, routing, accounting, reliability controls and operational safety behind ZERO. This repository is the public Project Zero launch, documentation and community home; it is not a dump of Tessen's private platform source.
+
+**[Read the public architecture →](./docs/ARCHITECTURE.md)**
 
 ## Documentation
 
 | Guide | What it covers |
 | --- | --- |
-| **[Project Zero](./docs/PROJECT_ZERO.md)** | Program model, activation and public contract |
-| **[Node Pool](./docs/NODE.md)** | Distributed compute vision and participation principles |
-| **[OpenCode](./docs/OPENCODE.md)** | Planned OpenCode experience and model reference |
-| **[Tessen CLI](./docs/CLI.md)** | Terminal experience and launch contract |
-| **[Developer Alpha](./docs/DEVELOPER_ALPHA.md)** | Launch standard and activation funnel |
-| **[Architecture](./docs/ARCHITECTURE.md)** | Public surface and request-flow architecture |
-| **[Roadmap](./docs/ROADMAP.md)** | What must be true before the pool opens |
-| **[FAQ](./docs/FAQ.md)** | Straight answers about the preview |
+| **[Project Zero](./docs/PROJECT_ZERO.md)** | The Zero Pool and public Alpha contract |
+| **[OpenCode](./docs/OPENCODE.md)** | The first developer distribution focus |
+| **[Node](./docs/NODE.md)** | How contributed compute can grow the network |
+| **[Developer Alpha](./docs/DEVELOPER_ALPHA.md)** | The minimum real opening standard |
+| **[CLI](./docs/CLI.md)** | Tessen's terminal-native path |
+| **[Architecture](./docs/ARCHITECTURE.md)** | Public request-flow architecture |
+| **[Roadmap](./docs/ROADMAP.md)** | What remains before opening |
+| **[FAQ](./docs/FAQ.md)** | Straight answers about ZERO |
 | **[Security](./SECURITY.md)** | Responsible vulnerability reporting |
 
 ## Coming → Open
 
-Today:
+Right now:
 
 > **THE ZERO POOL IS COMING.**
 
-When the clean developer path is certified:
+When a clean external developer can complete the real Alpha path without founder intervention:
 
 > **THE ZERO POOL IS OPEN.**
 
-The README will then lead with real install/onboarding instructions instead of promises.
+At that point this README should lead directly into the certified OpenCode/onboarding path and real operational information.
 
-## Follow Project Zero
+Until then, star or watch this repository to follow the opening.
 
-Watch or star this repository to follow the public launch.
+---
 
-Project Zero is being built by **Tessen**.
-
-**More developers. More nodes. More intelligence.**
+<p align="center">
+  <strong>PROJECT ZERO — ZERO</strong><br/>
+  100T TOKENS EVERY DAY.<br/>
+  MORE DEVELOPERS. MORE NODES. MORE INTELLIGENCE.
+</p>
