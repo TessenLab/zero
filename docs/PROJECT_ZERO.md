@@ -27,11 +27,13 @@ This makes the free preview concrete while keeping it bounded and measurable. Te
 
 Developers can participate on both sides of Project Zero: consume intelligence for coding work and, optionally, run **Tessen Node** to contribute compatible available compute.
 
-The launch baseline is **100T shared tokens per day**. It is a floor for the planned launch pool, not a promise that every developer individually receives 100T.
+The launch baseline is **100T shared tokens per day**. It is a planned starting target for the launch pool, not a promise that every developer individually receives 100T.
 
 As developers install Tessen Node and explicitly opt compatible compute into the network, Tessen can verify contributed capacity. Verified additional capacity can increase the **next day's published Zero Pool** above the 100T baseline at the **00:00 UTC** reset. The displayed pool must come from real capacity/accounting data, not a fixed marketing multiplier.
 
 Any Node credits or participation benefits will be tied to real contributed work and server-authoritative accounting; this repository will not promise guaranteed earnings or fabricated capacity.
+
+A shared token allowance does not itself certify physical serving capacity or guarantee request fulfillment. The live pool remains subject to measured route availability and economic safety controls. See [Compute and Pool](./COMPUTE_AND_POOL.md) for the distinction between allowance, verified compute and Node participation.
 
 ## Canonical model identity
 
