@@ -2,9 +2,10 @@
 
 This is a public launch roadmap, not a promise of dates.
 
-## Now — Coming
+## Now — Public page production deployment
 
-- Public Project Zero GitHub home
+- Public Project Zero GitHub home (published)
+- ZERO public page at https://tessen.ai/zero (production deployment in progress; live availability not yet verified)
 - Platform and Console launch readiness
 - Project Zero end-to-end certification
 - OpenCode integration certification
