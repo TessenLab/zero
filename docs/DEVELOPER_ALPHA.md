@@ -22,7 +22,7 @@ Those answers must come from production telemetry.
 
 ## Minimum opening path
 
-Before **THE ZERO POOL IS COMING** changes to **THE ZERO POOL IS OPEN**, a developer who has never spoken to Tessen should be able to:
+Before ZERO Alpha access is described as **OPEN**, a developer who has never spoken to Tessen should be able to:
 
 1. discover Project Zero;
 2. authenticate with Tessen;
