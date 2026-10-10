@@ -92,6 +92,8 @@ Public network statistics, if shown, will be backed by production telemetry.
 
 ## Status
 
-**Pre-launch certification.**
+**Public page production deployment in progress; developer Alpha access remains subject to external end-to-end verification.**
+
+Public page: https://tessen.ai/zero
 
 Exact onboarding instructions will be published when the clean new-developer path is certified.
