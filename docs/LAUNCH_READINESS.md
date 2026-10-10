@@ -2,6 +2,13 @@
 
 > Working checklist, updated 2026-10-10. This is **not** a declaration that ZERO Alpha is live. Mark an item complete only with direct verification and evidence.
 
+## ZERO / Compute / Pool truth checks
+
+- [ ] Review [Compute and Pool](./COMPUTE_AND_POOL.md) for consistency with the actual Gateway and Node implementation.
+- [ ] Verify that allowance counters, measured usable compute, active Nodes and successful requests are separate authoritative metrics.
+- [ ] Confirm that the 100T figure is a planned shared allowance baseline, not a hard physical-capacity guarantee.
+- [ ] Verify Node-backed pool growth only after opt-in, eligible work, real receipts and measured sustainable capacity.
+
 ## Public discovery and offer
 
 - [ ] Confirm https://tessen.ai/zero returns a public successful response, including mobile and unauthenticated browsing.
