@@ -10,7 +10,7 @@
   <strong>PROJECT ZERO · DEVELOPER ALPHA</strong>
 </p>
 
-<p align="center"><strong>THE ZERO POOL IS COMING.</strong></p>
+<p align="center"><strong>ZERO PUBLIC PAGE — PRODUCTION DEPLOYMENT IN PROGRESS.</strong></p>
 
 <p align="center">
   <code>tessen/project-zero</code>
@@ -21,6 +21,7 @@
 </p>
 
 <p align="center">
+  <a href="https://tessen.ai/zero">ZERO public page (deployment in progress)</a> ·
   <a href="https://tessen.ai">Tessen</a> ·
   <a href="./docs/PROJECT_ZERO.md">Project Zero</a> ·
   <a href="./docs/OPENCODE.md">OpenCode</a> ·
@@ -226,9 +227,11 @@ A server Node does not need a graphical interface or desktop tray.
 
 ## Coming → Open
 
-Right now:
+Current milestone:
 
-> **THE ZERO POOL IS COMING.**
+> **ZERO public page: production deployment in progress.**
+
+> **ZERO Alpha access: not yet independently verified for external developers.**
 
 When a clean external developer can complete the real Alpha path without founder intervention:
 
@@ -236,7 +239,7 @@ When a clean external developer can complete the real Alpha path without founder
 
 At that point this README should lead directly into the certified OpenCode/onboarding path and real operational information.
 
-Until then, star or watch this repository to follow the opening.
+The public launch page and developer access may become available at different times. Check [tessen.ai/zero](https://tessen.ai/zero) for the public product announcement; star or watch this repository for certified integration instructions.
 
 ---
 
