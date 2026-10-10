@@ -24,6 +24,10 @@ No. The 100T baseline is a shared daily pool. Tessen can apply per-developer all
 
 That is part of the Node model. Developers can optionally run **Tessen Node** to contribute compatible available compute. As real, eligible Node capacity joins, it can help strengthen and expand the Zero ecosystem. Verified additional capacity can increase the next day's published pool above the **100T baseline** at the **00:00 UTC** reset. More developer accounts alone do not increase the pool; actual verified Node capacity does. Any credits or participation benefits will be based on real contributed work and authoritative accounting.
 
+## Is the 100T pool the same as available computing power?
+
+No. It is a planned shared daily allowance, not a guarantee of physical compute or completed inference. Actual delivery depends on authorized routes, measured capacity, service health and economic controls. [Read how ZERO, Node, Compute and the Pool relate](./COMPUTE_AND_POOL.md).
+
 ## What model do developer tools use?
 
 ```text
