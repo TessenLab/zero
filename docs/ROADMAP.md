@@ -21,6 +21,8 @@ This is a public launch roadmap, not a promise of dates.
 - Growth: verified opted-in Tessen Node capacity can increase the next day's published pool
 - Measurement: displayed capacity comes from production authority, never a marketing multiplier
 
+The planned 100T figure is a shared allowance target, not proof of available compute. Node-based expansion must be measured, authorized and economically sustainable. See [Compute and Pool](./COMPUTE_AND_POOL.md).
+
 ## Opening gate
 
 The Zero Pool opens when a clean developer can:
