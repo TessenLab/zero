@@ -1,33 +1,29 @@
 # Tessen CLI
 
-Tessen CLI is the terminal-native entry point to Tessen.
+Tessen CLI is Tessen's terminal-native developer interface.
 
-For Project Zero, the goal is a short path from developer authentication to useful coding intelligence.
+## Availability
 
-## Launch contract
+**Tessen CLI has been reported as online as of 2026-10-10.** This documentation update reflects that product milestone; the precise public installation endpoint, package versions and supported-platform matrix have not been independently verified in this review.
 
-The public CLI should provide a certified way to:
+**Tessen CLI availability and Project ZERO access are distinct.** A working CLI does not by itself establish that `tessen/project-zero` is enabled for every external developer.
 
-- install on supported operating systems;
-- authenticate a Tessen developer identity;
-- obtain/use the Project Zero entitlement;
-- invoke Tessen coding intelligence;
-- preserve identity across terminal and web;
-- surface honest usage, errors and availability;
-- update and uninstall cleanly.
+## ZERO integration
 
-## Project Zero
-
-The canonical model identity is:
+The intended public developer-facing model identity is:
 
 ```text
 tessen/project-zero
 ```
 
-## Status
+The certified ZERO terminal flow should cover authentication, entitlement, model invocation, real coding-task completion, usage/error visibility and returning-user continuity. Publish tested commands and version requirements only after checking the actual released CLI.
 
-**Preparing Project Zero release.**
+## Documentation still needed
 
-We do not publish placeholder package names or commands.
+- Verified official install/update/uninstall instructions and supported operating systems
+- Exact authentication and logout commands
+- Tested ZERO model selection and example coding request
+- API credential handling and revocation
+- Limits, troubleshooting and privacy/security guidance
 
-When the CLI is publicly released, this page will contain exact installation, login, quickstart, update, troubleshooting and uninstall instructions.
+See [Developer Alpha](./DEVELOPER_ALPHA.md), [Compute and Pool](./COMPUTE_AND_POOL.md), and [Launch Readiness](./LAUNCH_READINESS.md).
