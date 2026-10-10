@@ -170,6 +170,8 @@ Tessen coordinates identity, entitlement, routing, accounting, reliability contr
 
 **[Read the public architecture →](./docs/ARCHITECTURE.md)**
 
+**[Understand ZERO, Node, Compute and the Pool →](./docs/COMPUTE_AND_POOL.md)**
+
 
 ## Tessen Node: desktop, developer and server compute
 
@@ -213,6 +215,8 @@ A server Node does not need a graphical interface or desktop tray.
 | **[Project Zero](./docs/PROJECT_ZERO.md)** | The Zero Pool and public Alpha contract |
 | **[OpenCode](./docs/OPENCODE.md)** | The first developer distribution focus |
 | **[Node](./docs/NODE.md)** | How contributed compute can grow the network |
+| **[Compute and Pool](./docs/COMPUTE_AND_POOL.md)** | Difference between the shared allowance, real compute, Gateway and optional Node contribution |
+| **[Launch Readiness](./docs/LAUNCH_READINESS.md)** | Evidence gates before public launch claims |
 | **[Developer Alpha](./docs/DEVELOPER_ALPHA.md)** | The minimum real opening standard |
 | **[CLI](./docs/CLI.md)** | Tessen's terminal-native path |
 | **[Architecture](./docs/ARCHITECTURE.md)** | Public request-flow architecture |
