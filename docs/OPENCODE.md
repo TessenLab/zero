@@ -58,7 +58,7 @@ This document does **not** claim that ZERO already has native or default OpenCod
 
 ## Status
 
-**Pre-launch certification.**
+**Public page deployment in progress; OpenCode Alpha access awaiting external end-to-end certification.**
 
 The OpenCode path is being treated as the primary Alpha opening gate.
 
@@ -73,4 +73,4 @@ When that happens, this page should become extremely simple:
 
 Until then:
 
-> **THE ZERO POOL IS COMING.**
+> **ZERO PUBLIC PAGE DEPLOYMENT IN PROGRESS — OPENCODE ACCESS PENDING VERIFICATION.**
