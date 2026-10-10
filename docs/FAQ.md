@@ -6,7 +6,7 @@ Project Zero is Tessen's free developer intelligence preview focused first on re
 
 ## Is it live?
 
-Not publicly yet. **The Zero Pool is coming.** The public path is being certified before install and credential instructions are published.
+The ZERO public page is being deployed to production at [tessen.ai/zero](https://tessen.ai/zero). That announcement is separate from certified developer Alpha access. The external coding-request path has not yet been independently verified here.
 
 ## What will it cost?
 
