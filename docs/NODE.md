@@ -4,6 +4,8 @@ Tessen Node is the participation layer for Tessen's distributed compute directio
 
 Project Zero creates useful developer demand. The Zero Pool is planned to begin with **100 trillion (100T) shared tokens per day**, replenished every day at **00:00 UTC**. Node is intended to let participating machines contribute available compute under explicit user controls and help grow the network beyond its starting pool. At each **00:00 UTC** reset, verified available capacity can be reflected in the next day's displayed ZERO Pool, so real Node growth can translate into a larger pool.
 
+The shared pool is an **allowance contract**, not a direct measurement of Node hardware throughput. A connected Node is not necessarily eligible or actively contributing. Real pool expansion requires authorized, measured, economically useful capacity and authoritative accounting; no automatic growth follows from Node counts. See [Compute and Pool](./COMPUTE_AND_POOL.md).
+
 ## Minimum requirements
 
 The following are **initial target requirements for the public Node program**, not a certification that every configuration at these limits has already been tested.
