@@ -9,7 +9,7 @@ This is a public launch roadmap, not a promise of dates.
 - Platform and Console launch readiness
 - Project Zero end-to-end certification
 - OpenCode integration certification
-- Tessen CLI public-release certification
+- Tessen CLI reported online (verify public installation, supported versions and ZERO-specific access)
 - Tessen Node public-release certification
 - independent Tessen Status
 - developer identity and auth closure
